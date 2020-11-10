@@ -1,0 +1,19 @@
+.mainBlock{
+    /*высота всего экрана*/
+    height: 100vh;
+
+    background-color: coral;
+}
+
+
+
+.text{
+    width: 320px;
+    border: 1px solid white;
+}
+
+.photo{
+    width: 300px;
+    height: 400px;
+    border: 1px solid white;
+}

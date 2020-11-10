@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    border: 1px solid greenyellow;
+    min-height: 100%;
+    width: 80%;
+    /*min-width: 80vh;*/
+    /*min-width: 375px;*/
+
+
+}

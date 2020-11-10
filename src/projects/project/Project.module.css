@@ -1,0 +1,23 @@
+.project{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    background-color: gray;
+    align-items: center;
+    text-align: center;
+    margin: 15px;
+
+}
+.icon{
+    height: 60px;
+    width: 60px;
+    background-color: cadetblue;
+
+}
+
+.imgProject{
+    width: 100%;
+}
+.description{
+
+}
